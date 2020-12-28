@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/HC-sarkeett/static/css/main.ab354751.chunk.css",
+    "main.js": "/HC-sarkeett/static/js/main.99aa6df0.chunk.js",
+    "main.js.map": "/HC-sarkeett/static/js/main.99aa6df0.chunk.js.map",
+    "runtime-main.js": "/HC-sarkeett/static/js/runtime-main.67cd9c7f.js",
+    "runtime-main.js.map": "/HC-sarkeett/static/js/runtime-main.67cd9c7f.js.map",
+    "static/js/2.08a2a6a1.chunk.js": "/HC-sarkeett/static/js/2.08a2a6a1.chunk.js",
+    "static/js/2.08a2a6a1.chunk.js.map": "/HC-sarkeett/static/js/2.08a2a6a1.chunk.js.map",
+    "index.html": "/HC-sarkeett/index.html",
+    "static/css/main.ab354751.chunk.css.map": "/HC-sarkeett/static/css/main.ab354751.chunk.css.map",
+    "static/js/2.08a2a6a1.chunk.js.LICENSE.txt": "/HC-sarkeett/static/js/2.08a2a6a1.chunk.js.LICENSE.txt",
+    "static/media/background.90941e29.png": "/HC-sarkeett/static/media/background.90941e29.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67cd9c7f.js",
+    "static/js/2.08a2a6a1.chunk.js",
+    "static/css/main.ab354751.chunk.css",
+    "static/js/main.99aa6df0.chunk.js"
+  ]
+}
